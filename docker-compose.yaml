@@ -3,4 +3,4 @@ services:
   project:
     image: reactjs
     ports: 
-      - '5001:5000'
+      - '80:80'
